@@ -3,8 +3,8 @@ beautifulsoup4
 requests
 openai
 python-dotenv
-trafilatura
+trafilatura[core]
 html2text
-google-generativeai
+google-genai
 groq
 tenacity

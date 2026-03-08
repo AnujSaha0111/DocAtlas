@@ -1,0 +1,13 @@
+.git/
+.env
+__pycache__/
+venv/
+env/
+.pytest_cache/
+*.log
+*.json
+*.md
+.streamlit/
+test/
+tests/
+assets/
