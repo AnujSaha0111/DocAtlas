@@ -19,7 +19,7 @@ DocAtlas is a powerful tool designed to extract structured information from docu
    ```bash
    pip install -r requirements.txt
    ```
-3. Set up your preferred API keys in a `.env` file in the root directory:
+3. Set up your preferred API keys in a `.env` file in the root directory(optional):
    ```env
    OPENAI_API_KEY=your_openai_key_here
    GEMINI_API_KEY=your_gemini_key_here
